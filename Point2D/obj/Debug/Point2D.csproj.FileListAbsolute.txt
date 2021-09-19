@@ -1,0 +1,6 @@
+/Users/minhluongvan/Projects/DesignPattern/DemoOOP/Point2D/Point2D/bin/Debug/Point2D.exe
+/Users/minhluongvan/Projects/DesignPattern/DemoOOP/Point2D/Point2D/bin/Debug/Point2D.pdb
+/Users/minhluongvan/Projects/DesignPattern/DemoOOP/Point2D/Point2D/obj/Debug/Point2D.csprojAssemblyReference.cache
+/Users/minhluongvan/Projects/DesignPattern/DemoOOP/Point2D/Point2D/obj/Debug/Point2D.csproj.CoreCompileInputs.cache
+/Users/minhluongvan/Projects/DesignPattern/DemoOOP/Point2D/Point2D/obj/Debug/Point2D.exe
+/Users/minhluongvan/Projects/DesignPattern/DemoOOP/Point2D/Point2D/obj/Debug/Point2D.pdb
